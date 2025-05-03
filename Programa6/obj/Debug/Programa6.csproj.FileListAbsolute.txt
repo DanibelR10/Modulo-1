@@ -1,0 +1,7 @@
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\bin\Debug\Programa6.exe.config
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\bin\Debug\Programa6.exe
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\bin\Debug\Programa6.pdb
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\obj\Debug\Programa6.csproj.AssemblyReference.cache
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\obj\Debug\Programa6.csproj.CoreCompileInputs.cache
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\obj\Debug\Programa6.exe
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa6\obj\Debug\Programa6.pdb

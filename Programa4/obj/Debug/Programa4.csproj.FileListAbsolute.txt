@@ -1,0 +1,7 @@
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\bin\Debug\Programa4.exe.config
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\bin\Debug\Programa4.exe
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\bin\Debug\Programa4.pdb
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\obj\Debug\Programa4.csproj.AssemblyReference.cache
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\obj\Debug\Programa4.csproj.CoreCompileInputs.cache
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\obj\Debug\Programa4.exe
+C:\Users\la daniiiiii\Desktop\Curso C#\Programa4\obj\Debug\Programa4.pdb
